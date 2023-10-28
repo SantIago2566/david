@@ -1,0 +1,14 @@
+{
+  "name": "david",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "dev": "npx http-server public"
+  },
+  "author": "",
+  "license": "ISC"
+}
